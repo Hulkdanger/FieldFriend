@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585338785973",
+    "project_id": "swarmify-16a5a",
+    "storage_bucket": "swarmify-16a5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585338785973:android:ec9b4e20e9becf89aa2efc",
+        "android_client_info": {
+          "package_name": "com.mycompany.locustapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzTePKiqPVbh_2LHc8__nXMaSoNne0Isc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
