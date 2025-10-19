@@ -45,10 +45,8 @@ Here's the given weights for each data type:
   - `id`, `latitude`, `longitude`, `observationDate`
   - `species`, `maturity`, `behaviour` (e.g., Swarms/Groups/Isolated)
   - `country`, `admin`, `notes`
-- **Refresh:** Pulled by Cloud Function (`ingestLocustV2`) on a schedule; upserts new/changed records and TTL-removes stale items.
+- **Refresh:** Pulled by Cloud Function on a schedule; upserts new/changed records and TTL-removes stale items.
 - **Use & attribution:** Used under FAO/ArcGIS terms; attribution is included in-app.
-- **Notes:** The app stores a minimized subset of fields for display & risk scoring; raw endpoints/keys are configured via environment variables (see `.env.example`).
+- **Notes:** The app stores a minimized subset of fields for display & risk scoring; raw endpoints/keys are configured via environment variables.
 
-**Key files:** `functions/src/index.ts`, `lib/risk/compute_risk.dart`, `lib/ui/*`.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
