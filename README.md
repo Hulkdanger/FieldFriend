@@ -2,6 +2,8 @@
 
 **Here's a demo web-version link to my app:** <https://pest-app-gn2dxa.flutterflow.app/>
 
+**And here's the link to my portflio video:** <https://youtu.be/b96P9X9lTVI/>
+
 ## 1) Introduction
 - **Problem:** Locust swarms destroy crops worldwide. I've witnessed firsthand their devastation at my ancestral farm. Data exists but it's hard for farmers to use in real time.
 - **Outcome:** I've made a free app that shows **nearby risk**, aggregates official + community reports, and explains **_why_** the risk is what it is. This app is made to make the data more accesible, so that farmers can have preparation time before swarmd=s come. 
