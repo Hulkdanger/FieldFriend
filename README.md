@@ -49,6 +49,7 @@ Here's the given weights for each data type:
 - **Use & attribution:** Used under FAO/ArcGIS terms; attribution is included in-app.
 - **Notes:** The app stores a minimized subset of fields for display & risk scoring; raw endpoints/keys are configured via environment variables.
 
-  PS: Check out the lib folder for all the custom code widgets, actions, and functions!
+
+PS: Check out the lib folder for all the custom code widgets, actions, and functions!
 
 
