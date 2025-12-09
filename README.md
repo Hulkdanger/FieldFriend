@@ -1,6 +1,6 @@
 # FieldFriend - Your Personalized Locust Sighting Platform
 
-**Here's a demo web-version link to my app:** <https://pest-app-gn2dxa.flutterflow.app/>
+**Here's a demo web-version link to my app:** <https://fieldfriend-app-gn2dxa.flutterflow.app/>
 
 **And here's the link to my portflio video:** <https://youtu.be/b96P9X9lTVI/>
 
